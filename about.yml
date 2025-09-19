@@ -1,1 +1,11 @@
+--
+name: Anna Asonova # Ваше имя
+job: QA Engineer
+level: junior
+email: asonova_94@mail.ru
+description: |
+  Живу в городе Москве. Домашний питомец-кот. Люблю латте.
 
+skills:
+  - Функциональное тестирование
+  - Написание багрепортов
