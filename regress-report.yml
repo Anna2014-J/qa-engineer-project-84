@@ -1,4 +1,5 @@
 ---
+test-cases:
 - summary: |
     Нет поля выбора колличества единиц товара
 status: pass
